@@ -1,8 +1,7 @@
-# 🌐 AWS VPC Automation with Terraform & Jenkins (QA Perspective)
-
+ 🌐 AWS VPC Automation with Terraform & Jenkins (QA Perspective)
+---
 This project demonstrates **automated provisioning and validation of AWS Virtual Private Cloud (VPC) infrastructure** using Terraform, orchestrated through Jenkins CI/CD pipelines. The focus is on **accuracy, repeatability, and ensuring infrastructure behaves as intended**—core QA principles applied to cloud environments.
 ---
-This project automates the creation of a custom AWS Virtual Private Cloud (VPC) using Terraform, with Jenkins handling infrastructure deployment via a CI/CD pipeline.
 
 ### QA-Relevant Goals:
 
